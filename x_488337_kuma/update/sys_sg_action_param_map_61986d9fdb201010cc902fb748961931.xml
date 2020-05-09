@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Shopping Item)">e5986d9fdb201010cc902fb74896192a</button>
+        <item_parameter display_value="Shopping Item sys_id">65986d9fdb201010cc902fb748961924</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-08 13:38:12</sys_created_on>
+        <sys_id>61986d9fdb201010cc902fb748961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>65986d9fdb201010cc902fb748961924</sys_name>
+        <sys_package display_value="kuma" source="x_488337_kuma">05176d9bdb201010cc902fb7489619ec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="kuma">05176d9bdb201010cc902fb7489619ec</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_61986d9fdb201010cc902fb748961931</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-08 13:38:12</sys_updated_on>
+        <ui_parameter display_value="Sys ID">e5986d9fdb201010cc902fb74896192b</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
